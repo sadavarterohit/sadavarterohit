@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hello! I'm Rohit Sadavarte.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Deep+Learning;Machine+Learning;Data+Science)](https://git.io/typing-svg)
+
+- I'm currently a MS in Data Science Student at Columbia University
+- I have a background in Computer Science and Engineering
+- I'm working on AI applications in multiple areas, especially finance.
+- I love solving problems, ping me and we can solve something together.
+- Currently looking for an internship opportunity or even a summer job that can extend into the fall. 
+
 
 <!--
 **sadavarterohit/sadavarterohit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
